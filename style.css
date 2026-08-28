@@ -55,14 +55,14 @@ div {
     .n2, .n3 {
         margin-top: 20px;
         display: inline-block;
-        border: 1px solid black;
+        border: 2px solid black;
         width: 90px;
         height: 100px;
     }
 
     .n1{
         display: inline-block;
-        border: 1px solid black;
+        border: 2px solid black;
         width: 90px;
         height: 100px;
         margin-right: -18px;
